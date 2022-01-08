@@ -1,0 +1,16 @@
+{
+  "name": "lecture-exercise-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "dateformat": "^5.0.2",
+    "express": "^4.17.2",
+    "pluralize": "^8.0.0"
+  }
+}
